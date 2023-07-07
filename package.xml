@@ -13,6 +13,7 @@
   <test_depend>python3-pytest</test_depend>
 
   <depend>omcp_blender</depend>
+  <depend>xacro</depend>
   <depend>ar3_description</depend>
 
   <export>
